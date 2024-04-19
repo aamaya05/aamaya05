@@ -10,7 +10,7 @@ My primary goal is to be part of a collaborative team that can enhance my skills
 
 ## Technical Expertise
 
-I have hands-on experience in programming languages such as Java, JavaScript, Typescript, C#, HTML5, CSS3, and SQL.
+I have hands-on experience in programming languages such as Java, JavaScript, Typescript, C# and SQL.
 
 
 <!---
